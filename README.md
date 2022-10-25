@@ -1,3 +1,3 @@
 # tunnustenhallinta
 
-shool project for course
+school project for course
