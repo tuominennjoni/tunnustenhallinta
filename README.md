@@ -1,3 +1,3 @@
 # tunnustenhallinta
 
-school project for course
+project for a school course (optional programming language)
